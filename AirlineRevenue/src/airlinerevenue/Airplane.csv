@@ -1,0 +1,8 @@
+Serial No.,Airline,Source,Destination,Model No.,Seating Capacity,Window_seat,Middle_seat,Aisle_seat,Window_cost,Middle_cost,Aisle_cost,Total Cost
+1000,Emirates,Dubai,Chicago,EM - 2503,150,50,50,50,400,350,500,10400
+1001,Emirates,Boston,Dubai,EM - 1589,150,50,50,50,500,450,500,12100
+1002,Emirates,New York,Dubai,EM - 0896,150,50,50,50,450,350,450,10450
+1003,Emirates,Dubai,Mumbai,EM - 2256,150,50,50,50,300,290,300,7420
+2211,Qatar,Doha,Los Angeles,QA - 0045,150,50,50,50,700,700,700,17500
+2212,Qatar,London,Doha,QA - 0996,150,50,50,50,290,230,300,6850
+2213,Qatar,Amsterdam,Doha,QA - 9856,150,50,50,50,600,550,700,15400

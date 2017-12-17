@@ -1,0 +1,9 @@
+Name,Contact,Airline,Source,Destination,Flight No. ,Total Seats,Window,Middle,Aisle,Total
+ABC,88888,Emirates,Dubai,Mumbai,EM - 2256,5,3,0,2,1500
+PQR,5652,Qatar,London,Doha,QA - 0996,9,2,5,2,2330
+XYZ,2563,Qatar,Doha,Los Angeles,QA - 0045,6,1,2,3,4220
+RSV,45698,Emirates,Dubai,Chicago,EM - 2503,1,0,1,0,350
+HJU,465464,Emirates,Boston,Dubai,EM - 1589,3,2,1,0,1450
+STY,546454,Emirates,Dubai,Mumbai,EM - 2256,7,2,1,4,2090
+HJU,546454,Emirates,Dubai,Mumbai,EM - 2256,7,2,1,4,2090
+UYU,2563,Qatar,Doha,Los Angeles,QA - 0045,6,1,2,3,4220
